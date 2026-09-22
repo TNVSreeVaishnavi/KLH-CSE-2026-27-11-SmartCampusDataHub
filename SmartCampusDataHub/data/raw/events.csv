@@ -1,0 +1,56 @@
+event_id,name,date,location,capacity,organizer
+EVT0001,Event 1,2024-03-17,Auditorium,-50.0,Department
+EVT0002,Event 2,2024-11-06,Gym,-50.0,Club
+EVT0003,Event 3,2024-09-20,Library,0.0,Club
+EVT0004,Event 4,2024-03-12,Auditorium,0.0,Administration
+EVT0005,Event 5,2024-06-16,AUDITORIUM,0.0,Club
+EVT0006,Event 6,2024-11-09,  Auditorium  ,-50.0,Department
+EVT0007,Event 7,2024-06-12,  Cafeteria  ,,Administration
+EVT0008,Event 8,2024-03-24,  auditorium  ,,Student Council
+EVT0009,Event 9,2024-07-20,  Cafeteria  ,0.0,Department
+EVT0010,Event 10,2024-11-11,  AUDITORIUM  ,148.0,Administration
+EVT0011,Event 11,2024-06-02,  Cafeteria  ,,Club
+EVT0012,Event 12,2024-10-30,Library,,Department
+EVT0013,Event 13,2024-06-21,AUDITORIUM,0.0,Administration
+EVT0014,Event 14,2024-09-16,Cafeteria,-50.0,Student Council
+EVT0015,Event 15,2024-09-17,Gym,149.0,Department
+EVT0016,Event 16,2024-09-29,,148.0,Department
+EVT0017,Event 17,2024-09-07,Gym,,Administration
+EVT0018,Event 18,2024-12-28,Cafeteria,0.0,Administration
+EVT0019,Event 19,2024-10-15,,,Club
+EVT0020,Event 20,2024-06-02,,-50.0,Club
+EVT0021,Event 21,2024-08-31,Library,0.0,Department
+EVT0022,Event 22,2024-01-09,Library,0.0,Student Council
+EVT0023,Event 23,2024-07-07,Auditorium,71.0,Club
+EVT0024,Event 24,2024-06-18,Library,-50.0,Student Council
+EVT0025,Event 25,2024-12-10,AUDITORIUM,125.0,Administration
+EVT0026,Event 26,2024-02-26,Gym,-50.0,Administration
+EVT0027,Event 27,2024-08-01,AUDITORIUM,-50.0,Club
+EVT0028,Event 28,2024-10-25,Gym,27.0,Department
+EVT0029,Event 29,2024-06-06,auditorium,0.0,Administration
+EVT0030,Event 30,2024-12-18,Library,,Student Council
+EVT0031,Event 31,2024-11-18,Cafeteria,-50.0,Department
+EVT0032,Event 32,2024-01-14,Gym,-50.0,Club
+EVT0033,Event 33,2024-11-01,Cafeteria,,Administration
+EVT0034,Event 34,2024-08-30,auditorium,-50.0,Club
+EVT0035,Event 35,2024-05-15,AUDITORIUM,0.0,Department
+EVT0036,Event 36,2024-12-01,Cafeteria,0.0,Department
+EVT0037,Event 37,2024-10-23,Gym,331.0,Department
+EVT0038,Event 38,2024-10-22,auditorium,465.0,Student Council
+EVT0039,Event 39,2024-04-26,Gym,-50.0,Department
+EVT0040,Event 40,2024-01-27,auditorium,274.0,Department
+EVT0041,Event 41,2024-10-25,Library,-50.0,Administration
+EVT0042,Event 42,2024-09-02,,-50.0,Student Council
+EVT0043,Event 43,2024-03-28,,479.0,Student Council
+EVT0044,Event 44,2024-09-25,Library,,Club
+EVT0045,Event 45,2024-11-18,Library,,Department
+EVT0046,Event 46,2024-11-13,Library,0.0,Administration
+EVT0047,Event 47,2024-07-13,,449.0,Club
+EVT0048,Event 48,2024-03-16,Library,0.0,Department
+EVT0049,Event 49,2024-12-14,auditorium,291.0,Student Council
+EVT0050,Event 50,2024-05-04,Gym,0.0,Department
+EVT0001,Event 1,2024-03-17,Auditorium,-50.0,Department
+EVT0002,Event 2,2024-11-06,Gym,-50.0,Club
+EVT0003,Event 3,2024-09-20,Library,0.0,Club
+EVT0004,Event 4,2024-03-12,Auditorium,0.0,Administration
+EVT0005,Event 5,2024-06-16,AUDITORIUM,0.0,Club

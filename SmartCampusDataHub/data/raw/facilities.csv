@@ -1,0 +1,46 @@
+facility_id,name,type,capacity,location,status
+FAC0001,Facility 1,Cafeteria,-50.0,Building C,MAINTENANCE
+FAC0002,Facility 2,Classroom,,BUILDING A,Closed
+FAC0003,Facility 3,Lab,-50.0,,Operational
+FAC0004,Facility 4,Lab,-50.0,BUILDING A,MAINTENANCE
+FAC0005,Facility 5,CLASSROOM,,Building A,Operational
+FAC0006,Facility 6,  CLASSROOM  ,469.0,building a,Operational
+FAC0007,Facility 7,  Classroom  ,,Building C,Closed
+FAC0008,Facility 8,  Library  ,,Building C,Operational
+FAC0009,Facility 9,  Classroom  ,-50.0,Building C,Operational
+FAC0010,Facility 10,  Lab  ,-50.0,,Maintenance
+FAC0011,Facility 11,  Classroom  ,-50.0,Building B,OPERATIONAL
+FAC0012,Facility 12,Cafeteria,170.0,building a,Closed
+FAC0013,Facility 13,Library,,BUILDING A,OPERATIONAL
+FAC0014,Facility 14,Lab,0.0,BUILDING A,Operational
+FAC0015,Facility 15,Lab,-50.0,building a,Closed
+FAC0016,Facility 16,Classroom,0.0,BUILDING A,OPERATIONAL
+FAC0017,Facility 17,classroom,194.0,Building B,Operational
+FAC0018,Facility 18,LAB,448.0,Building C,OPERATIONAL
+FAC0019,Facility 19,Lab,-50.0,BUILDING A,MAINTENANCE
+FAC0020,Facility 20,Lab,-50.0,Building B,Maintenance
+FAC0021,Facility 21,Lab,0.0,Building C,operational
+FAC0022,Facility 22,Lab,156.0,,Operational
+FAC0023,Facility 23,LAB,-50.0,,MAINTENANCE
+FAC0024,Facility 24,classroom,493.0,building a,Closed
+FAC0025,Facility 25,Lab,,building a,Closed
+FAC0026,Facility 26,Cafeteria,-50.0,Building B,MAINTENANCE
+FAC0027,Facility 27,LAB,-50.0,,Maintenance
+FAC0028,Facility 28,LAB,-50.0,,Closed
+FAC0029,Facility 29,Classroom,0.0,,Maintenance
+FAC0030,Facility 30,classroom,0.0,Building B,Operational
+FAC0031,Facility 31,Cafeteria,,Building B,Operational
+FAC0032,Facility 32,Library,0.0,BUILDING A,MAINTENANCE
+FAC0033,Facility 33,Classroom,0.0,,MAINTENANCE
+FAC0034,Facility 34,Lab,,building a,Maintenance
+FAC0035,Facility 35,Cafeteria,239.0,BUILDING A,Operational
+FAC0036,Facility 36,Lab,,BUILDING A,Operational
+FAC0037,Facility 37,Cafeteria,0.0,,MAINTENANCE
+FAC0038,Facility 38,Cafeteria,-50.0,Building C,Closed
+FAC0039,Facility 39,classroom,0.0,Building B,operational
+FAC0040,Facility 40,LAB,212.0,BUILDING A,MAINTENANCE
+FAC0001,Facility 1,Cafeteria,-50.0,Building C,MAINTENANCE
+FAC0002,Facility 2,Classroom,,BUILDING A,Closed
+FAC0003,Facility 3,Lab,-50.0,,Operational
+FAC0004,Facility 4,Lab,-50.0,BUILDING A,MAINTENANCE
+FAC0005,Facility 5,CLASSROOM,,Building A,Operational

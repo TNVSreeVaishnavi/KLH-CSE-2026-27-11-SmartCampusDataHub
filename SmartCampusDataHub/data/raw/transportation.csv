@@ -1,0 +1,34 @@
+vehicle_id,vehicle_type,capacity,status
+VEH0001,bus,0.0,Inactive
+VEH0002,SHUTTLE,10.0,active
+VEH0003,BUS,-10.0,Active
+VEH0004,  BUS  ,-10.0,ACTIVE
+VEH0005,  BUS  ,0.0,MAINTENANCE
+VEH0006,  Shuttle  ,,Maintenance
+VEH0007,  BUS  ,-10.0,MAINTENANCE
+VEH0008,  Shuttle  ,,ACTIVE
+VEH0009,  Taxi  ,,Inactive
+VEH0010,SHUTTLE,,ACTIVE
+VEH0011,bus,,Active
+VEH0012,Shuttle,59.0,Active
+VEH0013,Taxi,,active
+VEH0014,SHUTTLE,0.0,Maintenance
+VEH0015,Shuttle,93.0,Inactive
+VEH0016,Car,0.0,Inactive
+VEH0017,SHUTTLE,-10.0,MAINTENANCE
+VEH0018,Car,75.0,Maintenance
+VEH0019,Taxi,,MAINTENANCE
+VEH0020,Car,45.0,Maintenance
+VEH0021,BUS,70.0,ACTIVE
+VEH0022,Car,,ACTIVE
+VEH0023,BUS,0.0,Maintenance
+VEH0024,Taxi,-10.0,active
+VEH0025,Car,-10.0,ACTIVE
+VEH0026,SHUTTLE,,active
+VEH0027,Car,,ACTIVE
+VEH0028,Car,,Inactive
+VEH0029,Bus,49.0,Active
+VEH0030,SHUTTLE,-10.0,Active
+VEH0001,bus,0.0,Inactive
+VEH0002,SHUTTLE,10.0,active
+VEH0003,BUS,-10.0,Active

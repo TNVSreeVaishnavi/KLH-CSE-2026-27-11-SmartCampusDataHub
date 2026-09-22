@@ -1,0 +1,106 @@
+student_id,name,email,age,gender,department,status
+STU00001,Student 1,student1@campus.edu,76,M,Business,active
+STU00002,Student 2,student2@campus.edu,22,M,Business,Inactive
+STU00003,Student 3,student3@campus.edu,16,Other,Engineering,ACTIVE
+STU00004,Student 4,student4@campus.edu,62,,Computer Science,On Leave
+STU00005,Student 5,student5@campus.edu,32,,Engineering,Active
+STU00006,  Student 6  ,student6@campus.edu,30,F,Science,Inactive
+STU00007,  Student 7  ,student7@campus.edu,29,Female,Computer Science,On Leave
+STU00008,  Student 8  ,student8@campus.edu,23,,Computer Science,On Leave
+STU00009,  Student 9  ,student9@campus.edu,62,Other,Medicine,On Leave
+STU00010,  Student 10  ,,21,Male,Arts,INACTIVE
+STU00011,  Student 11  ,student11@campus.edu,58,Female,Computer Science,Active
+STU00012,Student 12,student12@campus.edu,62,Male,Science,Active
+STU00013,Student 13,student13@campus.edu,49,Other,Engineering,Graduated
+STU00014,Student 14,student14@campus.edu,20,M,Engineering,INACTIVE
+STU00015,Student 15,student15@campus.edu,52,Other,Medicine,On Leave
+STU00016,Student 16,student16@campus.edu,49,Male,arts,Active
+STU00017,Student 17,student17@campus.edu,17,Female,science,Active
+STU00018,Student 18,student18@campus.edu,16,F,engineering,On Leave
+STU00019,Student 19,student19@campus.edu,20,,business,On Leave
+STU00020,Student 20,,28,Other,science,ACTIVE
+STU00021,Student 21,student21@campus.edu,29,Female,science,ACTIVE
+STU00022,Student 22,student22@campus.edu,47,,Arts,Inactive
+STU00023,Student 23,student23@campus.edu,53,M,Engineering,Inactive
+STU00024,Student 24,student24@campus.edu,16,M,Science,Inactive
+STU00025,Student 25,student25@campus.edu,50,,Medicine,ACTIVE
+STU00026,Student 26,,27,M,Medicine,On Leave
+STU00027,Student 27,,60,Female,Engineering,Inactive
+STU00028,Student 28,,56,Other,Medicine,Active
+STU00029,Student 29,,59,Female,Business,ACTIVE
+STU00030,Student 30,,49,Female,Arts,Inactive
+STU00031,Student 31,,48,,Medicine,Active
+STU00032,Student 32,student32@campus.edu,29,F,Medicine,Inactive
+STU00033,Student 33,student33@campus.edu,43,F,Business,active
+STU00034,Student 34,student34@campus.edu,52,Other,Arts,On Leave
+STU00035,Student 35,student35@campus.edu,32,,Science,On Leave
+STU00036,Student 36,student36@campus.edu,15,,Arts,Inactive
+STU00037,Student 37,student37@campus.edu,63,,Computer Science,active
+STU00038,Student 38,student38@campus.edu,25,,Engineering,Inactive
+STU00039,Student 39,student39@campus.edu,59,,Engineering,Graduated
+STU00040,Student 40,,42,,Computer Science,Graduated
+STU00041,Student 41,student41@campus.edu,36,,Business,On Leave
+STU00042,Student 42,student42@campus.edu,32,Female,Computer Science,INACTIVE
+STU00043,Student 43,student43@campus.edu,24,F,Science,Graduated
+STU00044,Student 44,student44@campus.edu,28,M,Science,Graduated
+STU00045,Student 45,student45@campus.edu,63,Male,Engineering,Inactive
+STU00046,Student 46,student46@campus.edu,38,Male,Science,ACTIVE
+STU00047,Student 47,student47@campus.edu,21,Male,Engineering,ACTIVE
+STU00048,Student 48,student48@campus.edu,20,Female,Computer Science,active
+STU00049,Student 49,student49@campus.edu,39,,Computer Science,ACTIVE
+STU00050,Student 50,,21,Female,Medicine,Active
+STU00051,Student 51,student51@campus.edu,37,,Medicine,INACTIVE
+STU00052,Student 52,student52@campus.edu,37,M,Computer Science,Graduated
+STU00053,Student 53,student53@campus.edu,53,F,Engineering,INACTIVE
+STU00054,Student 54,student54@campus.edu,31,Male,Computer Science,Active
+STU00055,Student 55,student55@campus.edu,17,M,Computer Science,Graduated
+STU00056,Student 56,student56@campus.edu,61,M,Business,active
+STU00057,Student 57,student57@campus.edu,44,F,Computer Science,Active
+STU00058,Student 58,student58@campus.edu,49,M,Science,Active
+STU00059,Student 59,student59@campus.edu,22,F,Engineering,INACTIVE
+STU00060,Student 60,,39,Other,Business,Inactive
+STU00061,Student 61,student61@campus.edu,5,F,Medicine,INACTIVE
+STU00062,Student 62,student62@campus.edu,50,Male,Arts,On Leave
+STU00063,Student 63,student63@campus.edu,33,,Engineering,INACTIVE
+STU00064,Student 64,student64@campus.edu,55,,Science,ACTIVE
+STU00065,Student 65,student65@campus.edu,54,Male,Engineering,Active
+STU00066,Student 66,student66@campus.edu,38,,Medicine,INACTIVE
+STU00067,Student 67,student67@campus.edu,51,F,Science,Active
+STU00068,Student 68,student68@campus.edu,27,Other,Science,On Leave
+STU00069,Student 69,student69@campus.edu,60,,Arts,ACTIVE
+STU00070,Student 70,,19,Other,Engineering,Active
+STU00071,Student 71,student71@campus.edu,17,Male,Arts,INACTIVE
+STU00072,Student 72,student72@campus.edu,57,Other,Arts,Active
+STU00073,Student 73,student73@campus.edu,29,M,Engineering,Graduated
+STU00074,Student 74,student74@campus.edu,64,Female,Computer Science,On Leave
+STU00075,Student 75,student75@campus.edu,33,M,Computer Science,ACTIVE
+STU00076,Student 76,student76@campus.edu,5,Male,Medicine,Inactive
+STU00077,Student 77,student77@campus.edu,29,,Arts,Active
+STU00078,Student 78,student78@campus.edu,21,,Business,INACTIVE
+STU00079,Student 79,student79@campus.edu,39,Other,Arts,ACTIVE
+STU00080,Student 80,,32,F,Arts,INACTIVE
+STU00081,Student 81,student81@campus.edu,44,Female,Arts,INACTIVE
+STU00082,Student 82,student82@campus.edu,55,F,Medicine,Active
+STU00083,Student 83,student83@campus.edu,38,Male,Computer Science,INACTIVE
+STU00084,Student 84,student84@campus.edu,25,,Medicine,Active
+STU00085,Student 85,student85@campus.edu,38,Other,Medicine,Inactive
+STU00086,Student 86,student86@campus.edu,37,,Medicine,Graduated
+STU00087,Student 87,student87@campus.edu,28,F,Computer Science,INACTIVE
+STU00088,Student 88,student88@campus.edu,57,F,Computer Science,INACTIVE
+STU00089,Student 89,student89@campus.edu,32,Female,Arts,INACTIVE
+STU00090,Student 90,,59,Female,Medicine,active
+STU00091,Student 91,student91@campus.edu,82,Other,Business,active
+STU00092,Student 92,student92@campus.edu,56,Female,Computer Science,ACTIVE
+STU00093,Student 93,student93@campus.edu,19,F,Engineering,Graduated
+STU00094,Student 94,student94@campus.edu,53,F,Engineering,Graduated
+STU00095,Student 95,student95@campus.edu,55,Male,Engineering,active
+STU00096,Student 96,student96@campus.edu,25,F,Science,ACTIVE
+STU00097,Student 97,student97@campus.edu,49,Other,Arts,active
+STU00098,Student 98,student98@campus.edu,61,M,Engineering,Inactive
+STU00099,Student 99,student99@campus.edu,30,Male,Arts,ACTIVE
+STU00100,Student 100,,25,Male,Engineering,Graduated
+STU00001,Student 1,student1@campus.edu,76,M,Business,active
+STU00002,Student 2,student2@campus.edu,22,M,Business,Inactive
+STU00003,Student 3,student3@campus.edu,16,Other,Engineering,ACTIVE
+STU00004,Student 4,student4@campus.edu,62,,Computer Science,On Leave
+STU00005,Student 5,student5@campus.edu,32,,Engineering,Active

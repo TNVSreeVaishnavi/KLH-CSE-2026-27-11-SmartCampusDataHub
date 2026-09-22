@@ -1,0 +1,41 @@
+facility_id,name,type,capacity,location,status,ingestion_timestamp
+FAC0001,Facility 1,Cafeteria,100.0,Building C,maintenance,2026-09-18 11:36:26.899358
+FAC0002,Facility 2,Classroom,100.0,Building A,closed,2026-09-18 11:36:26.899358
+FAC0003,Facility 3,Lab,100.0,Unknown,operational,2026-09-18 11:36:26.899358
+FAC0004,Facility 4,Lab,100.0,Building A,maintenance,2026-09-18 11:36:26.899358
+FAC0005,Facility 5,Classroom,100.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0006,Facility 6,Classroom,469.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0007,Facility 7,Classroom,100.0,Building C,closed,2026-09-18 11:36:26.899358
+FAC0008,Facility 8,Library,100.0,Building C,operational,2026-09-18 11:36:26.899358
+FAC0009,Facility 9,Classroom,100.0,Building C,operational,2026-09-18 11:36:26.899358
+FAC0010,Facility 10,Lab,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0011,Facility 11,Classroom,100.0,Building B,operational,2026-09-18 11:36:26.899358
+FAC0012,Facility 12,Cafeteria,170.0,Building A,closed,2026-09-18 11:36:26.899358
+FAC0013,Facility 13,Library,100.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0014,Facility 14,Lab,100.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0015,Facility 15,Lab,100.0,Building A,closed,2026-09-18 11:36:26.899358
+FAC0016,Facility 16,Classroom,100.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0017,Facility 17,Classroom,194.0,Building B,operational,2026-09-18 11:36:26.899358
+FAC0018,Facility 18,Lab,448.0,Building C,operational,2026-09-18 11:36:26.899358
+FAC0019,Facility 19,Lab,100.0,Building A,maintenance,2026-09-18 11:36:26.899358
+FAC0020,Facility 20,Lab,100.0,Building B,maintenance,2026-09-18 11:36:26.899358
+FAC0021,Facility 21,Lab,100.0,Building C,operational,2026-09-18 11:36:26.899358
+FAC0022,Facility 22,Lab,156.0,Unknown,operational,2026-09-18 11:36:26.899358
+FAC0023,Facility 23,Lab,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0024,Facility 24,Classroom,493.0,Building A,closed,2026-09-18 11:36:26.899358
+FAC0025,Facility 25,Lab,100.0,Building A,closed,2026-09-18 11:36:26.899358
+FAC0026,Facility 26,Cafeteria,100.0,Building B,maintenance,2026-09-18 11:36:26.899358
+FAC0027,Facility 27,Lab,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0028,Facility 28,Lab,100.0,Unknown,closed,2026-09-18 11:36:26.899358
+FAC0029,Facility 29,Classroom,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0030,Facility 30,Classroom,100.0,Building B,operational,2026-09-18 11:36:26.899358
+FAC0031,Facility 31,Cafeteria,100.0,Building B,operational,2026-09-18 11:36:26.899358
+FAC0032,Facility 32,Library,100.0,Building A,maintenance,2026-09-18 11:36:26.899358
+FAC0033,Facility 33,Classroom,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0034,Facility 34,Lab,100.0,Building A,maintenance,2026-09-18 11:36:26.899358
+FAC0035,Facility 35,Cafeteria,239.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0036,Facility 36,Lab,100.0,Building A,operational,2026-09-18 11:36:26.899358
+FAC0037,Facility 37,Cafeteria,100.0,Unknown,maintenance,2026-09-18 11:36:26.899358
+FAC0038,Facility 38,Cafeteria,100.0,Building C,closed,2026-09-18 11:36:26.899358
+FAC0039,Facility 39,Classroom,100.0,Building B,operational,2026-09-18 11:36:26.899358
+FAC0040,Facility 40,Lab,212.0,Building A,maintenance,2026-09-18 11:36:26.899358
